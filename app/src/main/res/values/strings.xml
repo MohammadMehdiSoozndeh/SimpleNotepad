@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="note_title_str">Title</string>
+    <string name="text_of_note_hint_str">Text of Note</string>
+    <string name="save_note_str">Save Note</string>
+    <string name="delete_note_str">Delete Note</string>
+</resources>
